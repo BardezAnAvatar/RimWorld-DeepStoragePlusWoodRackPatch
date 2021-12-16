@@ -6,6 +6,6 @@
   <incompatibleWith />
   <loadBefore />
   <loadAfter />
-  <manifestUri>TODO</manifestUri>
-  <downloadUri>TODO</downloadUri>
+  <manifestUri>https://github.com/BardezAnAvatar/RimWorld-DeepStoragePlusWoodRackPatch/blob/main/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/BardezAnAvatar/RimWorld-DeepStoragePlusWoodRackPatch/releases</downloadUri>
 </Manifest>
