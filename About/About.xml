@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Deep Storage Plus: VGP Vegetable Garden patch for Wood Rack</name>
+  <packageId>Bardez.DeepStoragePlusWoodRackPatch</packageId>
+  <author>Bardez</author>
+  <url>TODO</url>
+  <supportedVersions>
+    <li>1.3</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>dismarzero.VGP.VGPVegetableGarden</packageId>
+      <displayName>VGP Vegetable Garden</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2007061826</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Mlie.DeepStoragePlus</packageId>
+      <displayName>Deep Storage Plus</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2589072911</steamWorkshopUrl>
+      <downloadUrl>https://github.com/emipa606/DeepStoragePlus</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>dismarzero.VGP.VGPVegetableGarden</li>
+    <li>Mlie.DeepStoragePlus</li>
+  </loadAfter>
+  <description>This mod adds bamboo and ironwood as viable contents to the Wood Rack from Deep Storage Plus.</description>
+</ModMetaData>
