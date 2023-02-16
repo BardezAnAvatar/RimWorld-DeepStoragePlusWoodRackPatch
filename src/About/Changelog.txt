@@ -1,4 +1,4 @@
 # Changelog for Deep Storage Plus: VGP Vegetable Garden patch for Wood Rack
 
 1.0.0.0 - First publish
-
+1.4.0.0 - Copying for 1.4
