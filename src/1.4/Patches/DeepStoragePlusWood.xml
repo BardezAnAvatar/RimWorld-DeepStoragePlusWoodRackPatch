@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="DSP_WoodRack"]/building/fixedStorageSettings/filter/thingDefs</xpath>
+    <value>
+      <li>Bamboo</li>
+      <li>VG_IronWoodLog</li>
+    </value>
+  </Operation>
+</Patch>
